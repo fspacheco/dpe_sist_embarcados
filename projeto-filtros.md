@@ -36,7 +36,7 @@ Nessa etapa, é importante rever os requisitos e o projeto da etapa anterior par
 ## Avaliação e testes
 Nesta etapa, verificamos se os requisitos iniciais foram atendidos. É comum usar sinais de teste padronizados como tons, sinais de varredura (sweep), ruído rosa (para áudio) além de sinais de voz e música.
 
-Referências
+## Referências
 Agilent: Designing a Digital Filter. Disponível em:
 http://literature.cdn.keysight.com/litweb/pdf/ads2008/dfilter/ads2008/Designing_a_Digital_Filter.html
 
